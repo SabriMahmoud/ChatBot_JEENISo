@@ -1,0 +1,42 @@
+{
+	"intents": [{
+			"tag": "Pourquoi",
+			"patterns": ["pourquoi choisir la JEENISo ?", "qualite", "savoir faire de haut niveau", "faire", "cout", "Engagement", "Cout concurrentiel", "role", "pourquoi", "JEENISo", "jeeniso", "Junior Entreprise", "junior entreprise", "junior", "membre", "milieu du travail", "travail", "milieu", "partenaires,", "competences", "clients", "discipline", "generations", "besoins", "produits", "produit"],
+			"responses": ["La JEENISo représente un rôle très important dans son milieu socio-économique. En effet, des clients et des partenaires de hauts calibres lui font confiance grâce au discipline de son équipe et leur professionnalisme et ce pour atteindre un seul objectif : avoir des générations futures prêtes à affronter le marché de l’emploi.",
+				"La Junior entreprise ENISo travaille toujours sur l’amélioration de ses processus en suivant les exigences de la norme ISO9001 et ce pour satisfaire toutes les parties prenantes.", "Notre équipe a des compétences acquises lors de sa formation académique et ses expériences variées avec son environnement ce que la rend qualifiée pour répondre aux besoins de toutes les parties prenantes.", "La junior entreprise offre des produits de haute qualité en pratiquant des prix ultra-compétitifs pour ses services.", "Les membres de la JEENISo prouvent toujours leur engagement et se montrent dévoués au travail qu’ils font et motivés à faire toujours le plus."
+			],
+			"context_set": ""
+		},
+
+		{
+			"tag": "services",
+			"patterns": ["Developpement Web", "eleves", "informatique", "service", "services", "web", "application", "applications", "produits"],
+			"responses": ["On met à votre disposition des élèves ingénieurs talentueux qui vous présentent des offres d’accompagnement informatique variées : Des sites web vitrine, des applications web, des sites E-commerce ou des portails réactifs"],
+			"context_set": ""
+		},
+
+
+		{
+			"tag": "services mobile",
+			"patterns": ["produit", "Developpement Mobile", "eleves", "disposition?", "E-commerce", "ecommerce", "e-commerce", "smartphone", "informatique", "service", "services", "development", "application", "applications"],
+			"responses": ["Comme le smartphone est devenu l’outil indispensable pour toucher une large quantité de consommateurs, la Junior Entreprise ENISo vous permet de profiter des outils modernes pour être au plus près des utilisateurs en vous élaborant des applications mobiles sur IOS, sur Android, ou bien hybrides."],
+			"context_set": ""
+		},
+		{
+			"tag": "mecanique",
+			"patterns": ["mecanique", "mécanique", "outils", "prototype", "prototypage", "Prototypage", "Conception Des Cartes Électroniques", "electronique", "cartes", "carte", "electroniques", "électroniques", "électronique"],
+			"responses": [" La conception mécanique fait partie des bonnes pratiques lors de chaque réalisation mécanique de produit chez la Junior Entreprise ENISo, elle vous permet de concevoir des ensembles mécaniques, dimensionner des structures, faire des essais mécaniques sur différents matériaux et programmer et ce pour tout type de client.", "Comme la réalisation d’un prototype est une des phases clef de recherche et développement et de conception d’un produit, la Junior Entreprise ENISo a parmi ses prestations de service le prototypage. En effet, son équipe est capable de modéliser des pièces et des systèmes mécaniques innovants sous des logiciels de CAO.", "La Junior Entreprise ENISo dispose des électroniciens polyvalents capables de répondre à tout type de besoins en matière de conception logicielle et matérielle. Nos étudiants sont aptes à la réalisation de systèmes électroniques modernes en adéquation avec votre projet et sont aussi formés à la conception."],
+			"context_set": ""
+		},
+		{
+			"tag": "JEENISo",
+			"patterns": ["historique  jeeniso ","entreprise", "junior", "a propos", "association", "parlez moi de vous ", "presentation", "presenter", "histoire", "chiffres", "mission", "quel est votre mission?", "quelle est votre mission ", "Quel est votre mission ", "vision", "votre vision ", "quel est votre vision", "but", "objective", "mission", "vision", "l'historique de la jeeniso","mouvement","historique junior entreprise"],
+			"responses": ["La Junior Entreprise ENISo, JEENISo, est un bureau de consulting estudiantin à but non lucratif, à vocation pédagogique, économique et sociale fondé en 2011 et implanté à l'Ecole Nationale d'Ingénieurs de Sousse", "A quelle école vas-tu?", " ça te plait là-bas ?", "La JEENISo a comme raison d’être cultiver l'esprit entrepreneurial chez les jeunes élèves ingénieurs en leur intégrant dans la vie professionnelle et en leur permettant de mettre en pratique leur enseignement théorique à travers une démarche stratégique basée sur la formation et l'application.", "Offrant des services en Développement Web, Développement Mobile, Conception Mécanique, Conception électronique et Prototypage, la JEENISo permet à ses membres de réaliser des projets consistants pour des clients variés après avoir eu la formation nécessaire en terme de capacités techniques et compétences managériales, en assurant l'amélioration continue, la conformité et les normes de qualité les plus élevées prouvée par la certification ISO 9001 v2015."],
+			"context_set": ""
+		}
+	]
+}
+  
+
+
+
